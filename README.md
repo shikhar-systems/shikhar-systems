@@ -1,16 +1,14 @@
-## Hi there 👋
+# Shikhar Jha — System Strategist
 
-<!--
-**shikhar-systems/shikhar-systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Privacy-Centric Systems Consultant | GA4 Architect | Predictive QA | Signal Governance | RCA Expert**
 
-Here are some ideas to get you started:
+I design analytics systems where attribution, compliance, and clarity are aligned — by architecture, not accident.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus Areas:
+- Consent-mode architecture for privacy-first platforms
+- Predictive QA for analytics integrity
+- Root Cause Analysis for silent signal failure
+- Agentic AI signal design with compliance guardrails
+
+Explore my core frameworks:  
+[`privacy-signal-systems`](https://github.com/shikhar-systems/privacy-signal-systems)
