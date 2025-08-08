@@ -1,4 +1,4 @@
-# Shikhar Jha — System Strategist & Chief AI Data Officer
+# Shikhar — System Strategist & Chief AI Data Officer
 
 **Architect of Privacy-First Signal Intelligence · GA4 & Consent-Mode Expert · Predictive QA Visionary · Root Cause Analysis Leader**
 
