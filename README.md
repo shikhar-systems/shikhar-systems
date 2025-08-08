@@ -36,4 +36,4 @@ Reach out to connect: [LinkedIn Profile](https://linkedin.com/in/shikhar-jha)
 
 ---
 
-© 2025 Shikhar Jha. All rights reserved.
+© 2025 Shikhar . All rights reserved.
